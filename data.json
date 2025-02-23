@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "stage": "Grade 10",
+      "age": 15
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "stage": "Grade 11",
+      "age": 16
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "stage": "Grade 12",
+      "age": 17
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "stage": "Grade 9",
+      "age": 14
+    },
+    {
+      "id": 5,
+      "name": "Emily Davis",
+      "stage": "Grade 11",
+      "age": 16
+    },
+    {
+      "id": 6,
+      "name": "Charlie Wilson",
+      "stage": "Grade 10",
+      "age": 15
+    },
+    {
+      "id": 7,
+      "name": "Grace Lee",
+      "stage": "Grade 9",
+      "age": 14
+    },
+    {
+      "id": 8,
+      "name": "David Clark",
+      "stage": "Grade 12",
+      "age": 17
+    },
+    {
+      "id": 9,
+      "name": "Sophie Adams",
+      "stage": "Grade 11",
+      "age": 16
+    },
+    {
+      "id": 10,
+      "name": "Michael Turner",
+      "stage": "Grade 10",
+      "age": 15
+    },
+    {
+      "id": 11,
+      "name": "Lucas Scott",
+      "stage": "Grade 9",
+      "age": 14
+    },
+    {
+      "id": 12,
+      "name": "Ella Thompson",
+      "stage": "Grade 11",
+      "age": 16
+    },
+    {
+      "id": 13,
+      "name": "Benjamin Evans",
+      "stage": "Grade 12",
+      "age": 17
+    },
+    {
+      "id": 14,
+      "name": "Olivia Green",
+      "stage": "Grade 10",
+      "age": 15
+    },
+    {
+      "id": 15,
+      "name": "Liam Harris",
+      "stage": "Grade 9",
+      "age": 14
+    },
+    {
+      "id": 16,
+      "name": "Sophia Lewis",
+      "stage": "Grade 11",
+      "age": 16
+    },
+    {
+      "id": 17,
+      "name": "James Martin",
+      "stage": "Grade 12",
+      "age": 17
+    },
+    {
+      "id": 18,
+      "name": "Mia Walker",
+      "stage": "Grade 9",
+      "age": 14
+    },
+    {
+      "id": 19,
+      "name": "Henry Young",
+      "stage": "Grade 10",
+      "age": 15
+    },
+    {
+      "id": 20,
+      "name": "Ava King",
+      "stage": "Grade 11",
+      "age": 16
+    }
+  ]
+  
