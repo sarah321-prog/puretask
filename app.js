@@ -16,7 +16,7 @@ let getLastStudent = () => {
 };
 console.log(getLastStudent());
 
-let getStudentById = (id) => {
+let getStudentById = (id) => { 
   return students . find(student => student.id=== id); 
 };
  console.log(getStudentById(3));
